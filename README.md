@@ -31,6 +31,8 @@
 ![testing library](https://img.shields.io/badge/testing_library-FF4785?style=for-the-badge&logo=testing-library&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![git](https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=Git&logoColor=white)
+![next](https://img.shields.io/badge/next-323330?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JSDoc](https://img.shields.io/badge/JSDoc-C21325?style=for-the-badge&logo=JSDoc&logoColor=white)
 
 ## 📈 Stats
 
